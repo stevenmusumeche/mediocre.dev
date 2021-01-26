@@ -1,0 +1,35 @@
+/* https://coolors.co/d8dbe2-a9bcd0-58a4b0-373f51-1b1b1e */
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  font-family: monospace;
+}
+
+article {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  grid-template-columns: 100%;
+  text-align: center;
+  background-color: #1b1b1e;
+  color: #d8dbe2;
+}
+
+a {
+  color: #a9bcd0;
+}
+
+main {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+footer {
+  padding: 1rem;
+  font-size: 1rem;
+}
