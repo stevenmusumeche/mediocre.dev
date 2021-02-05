@@ -1,5 +1,11 @@
 /* https://coolors.co/d8dbe2-a9bcd0-58a4b0-373f51-1b1b1e */
 
+:root {
+  --color-white: #d8dbe2;
+  --color-black: #1b1b1e;
+  --color-light-blue: #a9bcd0;
+}
+
 html,
 body,
 #root {
@@ -14,12 +20,12 @@ article {
   grid-template-rows: 1fr auto;
   grid-template-columns: 100%;
   text-align: center;
-  background-color: #1b1b1e;
-  color: #d8dbe2;
+  background-color: var(--color-black);
+  color: var(--color-white);
 }
 
 a {
-  color: #a9bcd0;
+  color: var(--color-light-blue);
 }
 
 main {

@@ -1,0 +1,56 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote {
+  width: 70vw;
+  margin: 0 auto;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .quote {
+    font-size: 1.8rem;
+    width: 95vw;
+  }
+}
+
+.meta {
+  font-size: 1.4rem;
+}
+
+.refresh-quote {
+  font-family: monospace;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-top: 2.8rem;
+  padding: 0.8rem 2rem;
+  color: var(--color-white);
+  border: 1px;
+  background-color: var(--color-black);
+  filter: brightness(1.8);
+}
+
+.refresh-quote:hover {
+  filter: brightness(2.2);
+  cursor: pointer;
+}
+
+.refresh-quote:focus {
+  outline: 1px solid var(--color-light-blue);
+}
+
+@media only screen and (max-width: 600px) {
+  .quote {
+    font-size: 1.8rem;
+    width: 95vw;
+  }
+
+  .meta {
+    font-size: 1.2rem;
+  }
+}
