@@ -10,9 +10,10 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-        <Route exact path="/it-takes-more">
+        <Route path="/it-takes-more">
           <SoftSkillsQuotes />
         </Route>
+
         <Route path="*">
           {/* todo */}
           <div>404 here</div>

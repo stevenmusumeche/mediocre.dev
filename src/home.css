@@ -2,7 +2,10 @@
 
 :root {
   --color-white: #d8dbe2;
+  --color-dim-white: hsl(222, 15%, 20%);
   --color-black: #1b1b1e;
+  --color-dark-black: #0c0c0e;
+  --color-near-black: #050506;
   --color-light-blue: #a9bcd0;
 }
 
@@ -35,7 +38,8 @@ main {
   font-size: 2rem;
 }
 
-footer {
+.home footer {
   padding: 1rem;
   font-size: 1rem;
+  display: block;
 }

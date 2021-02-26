@@ -2,6 +2,22 @@ import React, { useEffect, useLayoutEffect, useState } from "react";
 import { format } from "date-fns";
 import data from "./soft.json";
 import "./soft.css";
+import { Link, Route, Switch, useRouteMatch } from "react-router-dom";
+
+const Routing = () => {
+  let { path } = useRouteMatch();
+
+  return (
+    <Switch>
+      <Route exact path={`${path}/about`}>
+        <SoftSkillsQuotesAbout />
+      </Route>
+      <Route exact path={path}>
+        <SoftSkillsQuotes />
+      </Route>
+    </Switch>
+  );
+};
 
 // ignore incomplete data
 const populatedData = data.filter(
@@ -32,7 +48,6 @@ function SoftSkillsQuotes() {
       // we've seen everything, reset the list
       setViewedQuotes([]);
       setQuote(getRandomQuote());
-      console.log("seen everything");
       return;
     }
     setQuote(newQuote);
@@ -49,8 +64,10 @@ function SoftSkillsQuotes() {
       <main>
         <div className="quote">{quote.quote}</div>
         <div className="meta">
-          <a href={quote.url}>Episode {quote.episode}</a>,{" "}
-          {renderDate(quote.date)}
+          <a href={quote.url} target="_blank" rel="noopener noreferrer">
+            Episode {quote.episode}
+          </a>
+          , {renderDate(quote.date)}
           <div>
             <button
               className="refresh-quote"
@@ -63,7 +80,53 @@ function SoftSkillsQuotes() {
         </div>
       </main>
       <footer>
-        created by <a href="https://musumeche.com">Steven Musumeche</a>
+        <div>
+          made by <a href="https://musumeche.com">steven musumeche</a>
+        </div>
+        <div>
+          <Link to="/it-takes-more/about">about this page</Link>
+        </div>
+      </footer>
+    </article>
+  );
+}
+
+function SoftSkillsQuotesAbout() {
+  useLayoutEffect(() => {
+    document.title = "It Takes More";
+  }, []);
+
+  return (
+    <article>
+      <main className="about">
+        <p>
+          These jokes are taken from one of my favorite podcasts,{" "}
+          <a
+            href="https://softskills.audio/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Soft Skills Engineering
+          </a>
+          . Every show starts with the hosts telling a joke that follows this
+          formula:
+        </p>
+        <p className="joke">
+          "It takes more than
+          {" <JOKE HERE /> "}to be a great software engineer."
+        </p>
+        <p>
+          I always get a chuckle out of them, so I decided to collect them for
+          display on this site.
+        </p>
+      </main>
+      <footer>
+        <div>
+          made by <a href="https://musumeche.com">steven musumeche</a>
+        </div>
+        <div>
+          <Link to="/it-takes-more">back to quotes</Link>
+        </div>
       </footer>
     </article>
   );
@@ -79,4 +142,4 @@ function getRandomQuote(exclude: number[] = []): Quote | null {
   return filtered[Math.floor(Math.random() * filtered.length)];
 }
 
-export default SoftSkillsQuotes;
+export default Routing;
