@@ -19,11 +19,6 @@ const Routing = () => {
   );
 };
 
-// ignore incomplete data
-const populatedData = data.filter(
-  (x) => x.quote !== "" && x.quote !== "It takes more than "
-);
-
 interface Quote {
   quote: string;
   episode: number;
@@ -138,7 +133,7 @@ function renderDate(date: string): string {
 }
 
 function getRandomQuote(exclude: number[] = []): Quote | null {
-  const filtered = populatedData.filter((x) => !exclude.includes(x.episode));
+  const filtered = data.filter((x) => !exclude.includes(x.episode));
   return filtered[Math.floor(Math.random() * filtered.length)];
 }
 

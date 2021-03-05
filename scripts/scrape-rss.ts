@@ -1,3 +1,7 @@
+/**
+ * You have to temporarily set "module": "commonjs" in tsconfig.json to run this script. Blame node and ESM.
+ */
+
 import fetch from "node-fetch";
 import { parse } from "fast-xml-parser";
 import { writeFileSync } from "fs";
@@ -18,7 +22,7 @@ async function main() {
       url: item.link,
       episode: extractEpisode(item.title),
       date: new Date(item.pubDate),
-      quote: "",
+      quote: "It takes more than  to be a great engineer.",
     }));
 
   writeFileSync("./scripts/scraped.json", JSON.stringify(parsedData, null, 2));

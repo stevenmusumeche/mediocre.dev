@@ -1,5 +1,29 @@
 [
   {
+    "url": "https://softskills.audio/2021/03/01/episode-250-the-management-track-and-active-listening/",
+    "episode": 250,
+    "date": "2021-03-01T19:00:00.000Z",
+    "quote": "It takes more than editing source files directly on production servers and calling it continuous delivery to be a great engineer."
+  },
+  {
+    "url": "https://softskills.audio/2021/02/22/episode-249-settling-the-wild-west-and-credit-for-self-study/",
+    "episode": 249,
+    "date": "2021-02-22T19:00:00.000Z",
+    "quote": "It takes more than getting your pull request to show up in the Gartner Magic Quadrant to be a great engineer."
+  },
+  {
+    "url": "https://softskills.audio/2021/02/15/episode-248-non-private-slack-channels-and-expectations/",
+    "episode": 248,
+    "date": "2021-02-15T19:00:00.000Z",
+    "quote": "It takes more than sweet ASCII drawings in your code comments to be a great engineer."
+  },
+  {
+    "url": "https://softskills.audio/2021/02/08/episode-247-estimates-and-hotdesking/",
+    "episode": 247,
+    "date": "2021-02-08T19:00:00.000Z",
+    "quote": "It takes more than sending an email saying \"I wish to retract my previous message\" to be a great software engineer."
+  },
+  {
     "url": "https://softskills.audio/2021/02/01/episode-246-humanitarian-salary-conundrum-and-family-benefits/",
     "episode": 246,
     "date": "2021-02-01T19:00:00.000Z",
@@ -909,498 +933,60 @@
     "url": "https://softskills.audio/2017/11/30/episode-85-annoying-know-it-alls-and-company-headshots/",
     "episode": 85,
     "date": "2017-11-30T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than a magnetized needle and a steady hand to be a good software developer."
   },
   {
     "url": "https://softskills.audio/2017/11/23/episode-84-shy-developers-and-outsourced-architecture/",
     "episode": 84,
     "date": "2017-11-23T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than great recursive descent parsing skills to be a great engineer."
   },
   {
     "url": "https://softskills.audio/2017/11/16/episode-83-resume-gaps-and-moving-to-business/",
     "episode": 83,
     "date": "2017-11-16T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than an encyclopedic knowledge of keyboard shortcuts to be a great software engineer."
   },
   {
     "url": "https://softskills.audio/2017/11/09/episode-82-blow-ups-and-job-security/",
     "episode": 82,
     "date": "2017-11-09T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than a great GZIP compression ratio to be a great software engineer."
   },
   {
     "url": "https://softskills.audio/2017/11/02/episode-81-helping-unwilling-developers-grow-and-forced-out-during-two-weeks-notice/",
     "episode": 81,
     "date": "2017-11-02T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than outrageously developed biceps to be a great software engineer."
   },
   {
     "url": "https://softskills.audio/2017/10/29/episode-80-becoming-team-lead-and-constant-follow-up/",
     "episode": 80,
     "date": "2017-10-29T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than sweet emacs skills to be a great engineer."
   },
   {
     "url": "https://softskills.audio/2017/10/19/episode-79-story-points-and-developer-productivity/",
     "episode": 79,
     "date": "2017-10-19T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than great UML diagrams to be a great software engineer."
   },
   {
     "url": "https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/",
     "episode": 78,
     "date": "2017-10-13T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than a great curried function to be a great software engineer."
   },
   {
     "url": "https://softskills.audio/2017/10/04/episode-77-new-speaking-and-the-2-percent-raise/",
     "episode": 77,
     "date": "2017-10-04T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than great code to be a great engineer."
   },
   {
     "url": "https://softskills.audio/2017/09/25/episode-76-writing-goals-and-firing-jokes/",
     "episode": 76,
     "date": "2017-09-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/09/19/episode-75-self-promotion-for-shy-people-and-moving-in-a-year/",
-    "episode": 75,
-    "date": "2017-09-19T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/09/11/episode-74-pay-cut-for-switching-languages-and-missed-negotiation/",
-    "episode": 74,
-    "date": "2017-09-11T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/08/31/episode-73-rampant-rewriters-and-overexplainers/",
-    "episode": 73,
-    "date": "2017-08-31T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/08/17/episode-72-micro-managing-ceo-and-the-only-developer/",
-    "episode": 72,
-    "date": "2017-08-17T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/08/14/episode-71-informal-leadership-and-dealing-with-burnout/",
-    "episode": 71,
-    "date": "2017-08-14T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/07/28/episode-70-appraisal-driven-and-meeting-creep/",
-    "episode": 70,
-    "date": "2017-07-28T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/07/21/episode-69-self-important-lead-and-going-remote/",
-    "episode": 69,
-    "date": "2017-07-21T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/07/13/episode-68-paying-your-dues-and-outside-hobbies/",
-    "episode": 68,
-    "date": "2017-07-13T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/07/07/episode-67-grad-school-and-asking-good-questions/",
-    "episode": 67,
-    "date": "2017-07-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/06/29/episode-66-nepotism-and-how-bad-can-a-junior-be/",
-    "episode": 66,
-    "date": "2017-06-29T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/06/22/episode-65-left-in-the-dust-and-imposter-syndrome/",
-    "episode": 65,
-    "date": "2017-06-22T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/06/15/episode-64-negative-peer-reviews-and-on-call/",
-    "episode": 64,
-    "date": "2017-06-15T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/05/31/episode-62-many-meetings-and-surviving-acquisition/",
-    "episode": 62,
-    "date": "2017-05-31T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/05/25/episode-61-product-managers-and-notifications/",
-    "episode": 61,
-    "date": "2017-05-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/05/17/episode-60-office-arrangements-and-disarming-code-owners/",
-    "episode": 60,
-    "date": "2017-05-17T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/05/11/episode-59-buying-training-and-unrelated-experience/",
-    "episode": 59,
-    "date": "2017-05-11T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/04/25/episode-57-management-tasks-i-hate-and-difficult-co-workers/",
-    "episode": 57,
-    "date": "2017-04-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/04/18/episode-56-meetings-on-track-and-designer-centric-culture/",
-    "episode": 56,
-    "date": "2017-04-18T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/04/11/episode-55-ng-conf-live-episode/",
-    "episode": 55,
-    "date": "2017-04-11T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/04/04/episode-54-sneaky-contractors-and-job-title-growth/",
-    "episode": 54,
-    "date": "2017-04-04T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/03/29/episode-53-bait-and-switch-and-telling-managers-about-moving-to-management/",
-    "episode": 53,
-    "date": "2017-03-29T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/03/21/episode-52-slowness-guilt-and-no-side-projects/",
-    "episode": 52,
-    "date": "2017-03-21T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/03/15/episode-51-junior-scrum-master-in-trouble-and-jamison-has-no-degree/",
-    "episode": 51,
-    "date": "2017-03-15T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/03/07/episode-50-help-i-didnt-quit-and-manager-of-no-one/",
-    "episode": 50,
-    "date": "2017-03-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/02/28/episode-49-candidate-plagarism-and-tightwad-employer/",
-    "episode": 49,
-    "date": "2017-02-28T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/02/21/episode-48-quitting-a-death-march-and-discovering-if-im-underpaid/",
-    "episode": 48,
-    "date": "2017-02-21T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/02/14/episode-47-speaking-up-and-personal-issues/",
-    "episode": 47,
-    "date": "2017-02-14T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/02/07/episode-46-new-crappy-job-and-youth-vs-status-quo/",
-    "episode": 46,
-    "date": "2017-02-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/01/28/episode-45-RAPID-FIRE-and-micromanagers/",
-    "episode": 45,
-    "date": "2017-01-28T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/01/25/episode-44-discussing-firings-and-writing-job-postings/",
-    "episode": 44,
-    "date": "2017-01-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/01/16/episode-43-cost-of-internships-and-cs-interview-questions/",
-    "episode": 43,
-    "date": "2017-01-16T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2017/01/02/episode-42-job-hopping-and-cultural-reliability/",
-    "episode": 42,
-    "date": "2017-01-02T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/12/28/episode-41-management-snobs-and-two-bosses/",
-    "episode": 41,
-    "date": "2016-12-28T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/12/21/episode-40-office-visibility-and-new-tech/",
-    "episode": 40,
-    "date": "2016-12-21T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/12/12/episode-39-jerk-coworker-and-one-on-ones/",
-    "episode": 39,
-    "date": "2016-12-12T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/12/05/episode-38-going-over-someones-head-and-firing-after-just-hiring/",
-    "episode": 38,
-    "date": "2016-12-05T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/11/29/episode-37-vc-funding-and-internal-presentations/",
-    "episode": 37,
-    "date": "2016-11-29T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/11/22/episode-36-unlimited-pto-and-enforcing-best-practices/",
-    "episode": 36,
-    "date": "2016-11-22T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/11/15/episode-35-attracting-talent-and-quitting-without-burning-bridges/",
-    "episode": 35,
-    "date": "2016-11-15T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/11/07/episode-34-certifications-and-avoidance/",
-    "episode": 34,
-    "date": "2016-11-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/10/31/episode-33-damaging-your-credibility-and-meeting-employers-in-school/",
-    "episode": 33,
-    "date": "2016-10-31T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/10/26/episode-32-why-do-contracting/",
-    "episode": 32,
-    "date": "2016-10-26T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/10/17/episode-31-management-and-knowing-if-a-job/",
-    "episode": 31,
-    "date": "2016-10-17T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/10/08/episode-30-consensus-and-code-eiditing-etiquette/",
-    "episode": 30,
-    "date": "2016-10-08T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/10/07/episode-29-starting-a-new-job/",
-    "episode": 29,
-    "date": "2016-10-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/09/26/episode-28-tenure-and-helping-junior-developers/",
-    "episode": 28,
-    "date": "2016-09-26T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/09/19/episode-27-resumes-and-non-engineering-tasks/",
-    "episode": 27,
-    "date": "2016-09-19T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/09/12/episode-26-communicate-your-efforts-and-i-told-you-so/",
-    "episode": 26,
-    "date": "2016-09-12T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/09/05/episode-25-business-things-and-managing/",
-    "episode": 25,
-    "date": "2016-09-05T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/08/29/episode-24-generalist-vs-specialist/",
-    "episode": 24,
-    "date": "2016-08-29T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/08/22/episode-23-cto-questions-and-getting-a-raise/",
-    "episode": 23,
-    "date": "2016-08-22T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/08/15/episode-22-health-insurance-and-open-source/",
-    "episode": 22,
-    "date": "2016-08-15T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/08/08/episode-21-interns-and-dead-weight/",
-    "episode": 21,
-    "date": "2016-08-08T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/08/01/episode-20-stories-from-people-who-got-fired-and-doing-effective-code-reviews/",
-    "episode": 20,
-    "date": "2016-08-01T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/07/25/episode-19-firing-someone-for-a-coding-mistake-and-getting-demoted/",
-    "episode": 19,
-    "date": "2016-07-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/07/18/episode-18-dropping-out-of-college-and-preparing-for-interviews/",
-    "episode": 18,
-    "date": "2016-07-18T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/07/04/episode-17-side-project-ideas-and-getting-fired/",
-    "episode": 17,
-    "date": "2016-07-04T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/06/27/episode-16-dealing-with-recruiters-and-learning-new-things-without-frustration/",
-    "episode": 16,
-    "date": "2016-06-27T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/06/20/episode-15-working-with-non-technical-people-and-keeping-up-with-the-latest-tech/",
-    "episode": 15,
-    "date": "2016-06-20T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/06/07/episode-14-web-developer-prejudice-and-legacy-code/",
-    "episode": 14,
-    "date": "2016-06-07T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/05/30/episode-13-dealing-with-a-yes-boss-and-the-difference-between-contract-and-perma/",
-    "episode": 13,
-    "date": "2016-05-30T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/05/23/episode-12-making-friends-at-work-and-how-to-be-good-at-being-managed/",
-    "episode": 12,
-    "date": "2016-05-23T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/05/16/episode-11-negotiating-offers-and-dealing-with-an-oblivious-boss/",
-    "episode": 11,
-    "date": "2016-05-16T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/05/09/episode-10-mentors-and-stock-options/",
-    "episode": 10,
-    "date": "2016-05-09T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/05/02/episode-9-deadlines-and-titles/",
-    "episode": 9,
-    "date": "2016-05-02T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/04/25/episode-8-work-life-balance-and-on-boarding-new-engineers/",
-    "episode": 8,
-    "date": "2016-04-25T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/04/18/episode-7-finding-meaning-and-quitting-your-job/",
-    "episode": 7,
-    "date": "2016-04-18T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/04/11/episode-6-speaking-at-conferences/",
-    "episode": 6,
-    "date": "2016-04-11T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/04/04/episode-5-developer-compensation/",
-    "episode": 5,
-    "date": "2016-04-04T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/03/31/episode-4-should-i-build-my-personal-brand/",
-    "episode": 4,
-    "date": "2016-03-31T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/03/21/episode-3-what-to-look-for-in-a-dev-team/",
-    "episode": 3,
-    "date": "2016-03-21T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/03/14/episode-2-influencing-your-team-and-dealing-with-anger/",
-    "episode": 2,
-    "date": "2016-03-14T19:00:00.000Z",
-    "quote": "It takes more than "
-  },
-  {
-    "url": "https://softskills.audio/2016/03/07/episode-1-startup-opportunities-and-switching-jobs/",
-    "episode": 1,
-    "date": "2016-03-07T19:00:00.000Z",
-    "quote": "It takes more than "
+    "quote": "It takes more than highly-optimized assembly code to be a great engineer."
   }
 ]
